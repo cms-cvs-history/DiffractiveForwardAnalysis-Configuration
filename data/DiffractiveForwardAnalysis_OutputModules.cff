@@ -1,0 +1,2 @@
+include "DiffractiveForwardAnalysis/Skimming/data/gammagammaEEOutputModule.cfi"
+include "DiffractiveForwardAnalysis/Skimming/data/gammagammaMuMuOutputModule.cfi"

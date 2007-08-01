@@ -1,0 +1,4 @@
+block DiffractiveForwardAnalysisEventContent = {
+  untracked vstring outputCommands = {
+ }
+}
