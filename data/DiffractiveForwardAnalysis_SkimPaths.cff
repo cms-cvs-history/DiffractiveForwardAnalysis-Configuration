@@ -1,4 +1,0 @@
-# Diffraction and Forward Physics group Skim sequences
-
-include "DiffractiveForwardAnalysis/Skimming/data/gammagammaEE_SkimPaths.cff"
-include "DiffractiveForwardAnalysis/Skimming/data/gammagammaMuMu_SkimPaths.cff"
